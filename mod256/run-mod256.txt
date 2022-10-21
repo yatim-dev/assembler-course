@@ -1,0 +1,3 @@
+gcc -c mod256.s && ld mod256.o && ./a.out
+input number
+echo $?
