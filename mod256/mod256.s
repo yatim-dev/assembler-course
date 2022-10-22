@@ -33,5 +33,5 @@ exit:
 	syscall
 	
 .data
-msg: .ascii "hello world!\n"
+msg: .ascii "0"
 len=.-msg
