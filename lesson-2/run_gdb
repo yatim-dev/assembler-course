@@ -1,0 +1,3 @@
+gdb ./a.out
+b _start
+r
